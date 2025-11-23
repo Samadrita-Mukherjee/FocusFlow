@@ -1,2 +1,2 @@
-# FocusFlow
-A project made with python :)
+The main objective of FocusFlow – Productivity Analyzer is to develop a Python-based system that enables users to track their daily activities, measure productivity, and view meaningful insights. 
+The project follows a modular, object-oriented structure, allowing clear separation of concerns through dedicated classes such as User and Task. It relies entirely on non-machine-learning techniques and uses standard libraries like NumPy and Matplotlib for analytical and visual components. Data persists across sessions using CSV-based storage, making the system lightweight and platform independent. 
